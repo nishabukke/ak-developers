@@ -1,12 +1,7 @@
 
 @font-face {
-    font-family: "Montreal Regular";
-    src: url('/fonts/Montreal-Regular.ttf');
-}
-
-@font-face {
     font-family: "Montreal Bold";
-    src: url('/fonts/Gilroy-Light.otf');
+    src: url('./fonts/Gilroy-Light.otf');
 }
 
 *{
