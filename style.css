@@ -122,13 +122,13 @@ a{
     margin: 0px 20px;
     color: #fbfbfb;
     font-weight: 700;
-    letter-spacing: 1.2px;
-    font-size: 22px;
+    letter-spacing: 1px;
+    font-size: 18px;
 }
 
 .home-banner-content{
     position: absolute;
-    top: 50%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -143,6 +143,7 @@ a{
 .home-banner-content h1{
     color: #fff;
     text-align: center;
+    font-weight: 600;
     margin-top: 20px;
     transform: translateY(100%);
     opacity: 0; 
@@ -251,7 +252,7 @@ a{
 }
 
 .video-section {
-  height: 100vh; 
+  height: 90vh; 
 }
 
 video {
